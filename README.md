@@ -1,4 +1,4 @@
-# Sankha Subhra Das | Software Engineer & Database Specialist
+# Sankha Subhra Das | Software Engineer Portfolio
 
 Welcome to my interactive online portfolio! This repository hosts my personal website, designed to showcase my expertise as a Software Engineer specializing in database management, backend development, and quality assurance.
 
@@ -7,7 +7,7 @@ My goal with this portfolio is to provide a dynamic and engaging overview of my 
 ## ✨ Live Portfolio
 
 Experience the interactive portfolio live here:
-**[View Live Portfolio](https://sankhasubhradas.netlify.app/)**
+**[View Live Portfolio](https://wrik13.github.io/sankhasubhradas.github.io/)**
 
 ## 🚀 Features
 
