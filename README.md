@@ -7,7 +7,7 @@ My goal with this portfolio is to provide a dynamic and engaging overview of my 
 ## ✨ Live Portfolio
 
 Experience the interactive portfolio live here:
-**[View Live Portfolio](https://wrik13.github.io/sankhasubhradas.github.io/)**
+**[View Live Portfolio](https://wrik13.github.io/sankhasubhradas.github/)**
 
 
 ## 🚀 Features
@@ -37,7 +37,7 @@ This single-page application (SPA) is crafted with a focus on modern UI/UX and a
 
 ## 📂 Repository Structure
 
-├── index.html        # The main portfolio single-page application
+├── portfolio.html        # The main portfolio single-page application
 
 └── README.md         # This file
 
@@ -48,14 +48,14 @@ If you'd like to clone this repository and run the portfolio locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/wRiK13/sankhasubhradas.github.io.git](https://github.com/wRiK13/sankhasubhradas.github.io.git)
+    git clone [https://github.com/wRiK13/sankhasubhradasofficial.git](https://github.com/wRiK13/sankhasubhradasofficialgit)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd sankhasubhradas.github.io
+    cd sankhasubhradasofficial
     ```
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your web browser. For the best development experience with live reloading, consider using a VS Code extension like "Live Server."
+3.  **Open `portfolio.html`:**
+    Simply open the `portfolio.html` file in your web browser. For the best development experience with live reloading, consider using a VS Code extension like "Live Server."
 
 
 ## 📧 Contact
