@@ -48,7 +48,7 @@ If you'd like to clone this repository and run the portfolio locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/wRiK13/sankhasubhradasofficial.git](https://github.com/wRiK13/sankhasubhradasofficialgit)
+    git clone [https://github.com/wRiK13/sankhasubhradasofficial.git](https://github.com/wRiK13/sankhasubhradasofficial.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -56,7 +56,7 @@ If you'd like to clone this repository and run the portfolio locally:
     ```
 3.  **Open `portfolio.html`:**
     Simply open the `portfolio.html` file in your web browser. For the best development experience with live reloading, consider using a VS Code extension like "Live Server."
-
+https://github.com/wRiK13/sankhasubhradasofficial.git
 
 ## 📧 Contact
 
