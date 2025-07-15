@@ -37,7 +37,9 @@ This single-page application (SPA) is crafted with a focus on modern UI/UX and a
 
 ## 📂 Repository Structure
 
-├── index.html        # The main portfolio single-page application└── README.md         # This file
+├── index.html        # The main portfolio single-page application
+
+└── README.md         # This file
 
 
 ## ⚙️ Local Setup (For Developers)
