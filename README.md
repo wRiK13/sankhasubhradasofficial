@@ -9,6 +9,7 @@ My goal with this portfolio is to provide a dynamic and engaging overview of my 
 Experience the interactive portfolio live here:
 **[View Live Portfolio](https://wrik13.github.io/sankhasubhradas.github.io/)**
 
+
 ## 🚀 Features
 
 This single-page application (SPA) is crafted with a focus on modern UI/UX and an eye-catching design:
@@ -25,6 +26,7 @@ This single-page application (SPA) is crafted with a focus on modern UI/UX and a
 * **Smooth Transitions:** Sections gracefully fade in as you scroll, enhancing the user experience.
 * **Responsive Design:** Optimized for seamless viewing across all devices (desktop, tablet, mobile).
 
+
 ## 🛠️ Technologies Used
 
 * **HTML5:** Structure and content.
@@ -32,10 +34,13 @@ This single-page application (SPA) is crafted with a focus on modern UI/UX and a
 * **JavaScript (Vanilla JS):** For interactive elements, dynamic content loading, and animations.
 * **Chart.js:** For creating the interactive skills bar chart.
 
+
 ## 📂 Repository Structure
 
 ├── index.html        # The main portfolio single-page application
+
 └── README.md         # This file
+
 
 ## ⚙️ Local Setup (For Developers)
 
@@ -51,6 +56,7 @@ If you'd like to clone this repository and run the portfolio locally:
     ```
 3.  **Open `index.html`:**
     Simply open the `index.html` file in your web browser. For the best development experience with live reloading, consider using a VS Code extension like "Live Server."
+
 
 ## 📧 Contact
 
